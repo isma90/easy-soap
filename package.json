@@ -1,6 +1,6 @@
 {
   "name": "simple-soap",
-  "version": "1.5.11",
+  "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
