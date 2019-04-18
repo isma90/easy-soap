@@ -2,6 +2,10 @@
 
 Created to forget the configuration, based on [SOAP](https://www.npmjs.com/package/soap) library
 
+## Install
+
+``npm i soap-easy``
+
 ## How to Use
 
 ```javascript
@@ -18,3 +22,10 @@ public someSoap() {
 }
 
 ```
+
+
+#### Link
+
+See on [GITHUB](https://github.com/isma90/easy-soap)
+
+See on [NPM](https://www.npmjs.com/package/soap-easy)
